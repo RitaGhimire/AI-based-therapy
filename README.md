@@ -1,3 +1,6 @@
+# AI-Based Project
 
-This is just a over-view of home-page interface.
-We can continue working from here or just take ideas from it.
+## Description
+This project is an AI-based web application developed using HTML and CSS. 
+
+   
